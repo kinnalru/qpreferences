@@ -1,0 +1,5 @@
+#!/bin/sh
+rm -rf debug
+rm -rf release
+rm -rf build
+
